@@ -39,5 +39,13 @@
     "eslint-config-next": "12.3.1",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.1"
-  }
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/qpssoft"
+  },
+  "author": "Quang Pham (https://github.com/qpssoft)",
+  "contributors": [
+    "Quang Pham (https://github.com/sponsors/qpssoft)"
+  ]
 }
